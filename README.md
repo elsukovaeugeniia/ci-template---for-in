@@ -4,7 +4,7 @@
 
 ## Статус сборки
 
-[![Run Tests](https://github.com/elsukovaeugeniia/ci-template-class/actions/workflows/tests.yml/badge.svg)](https://github.com/elsukovaeugeniia/ci-template-class/actions/workflows/tests.yml)
+[![Run Tests](https://github.com/elsukovaeugeniia/ci-template---for-in/actions/workflows/tests.yml/badge.svg)](https://github.com/elsukovaeugeniia/ci-template---for-in/actions/workflows/tests.yml)
 
 ## Как запустить
 
